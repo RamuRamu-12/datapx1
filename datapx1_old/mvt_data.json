@@ -1,0 +1,268 @@
+{
+    "data": [
+        {
+            "Year": {
+                "value": 2019.0,
+                "is_imputed": "False"
+            },
+            "Co2 emission Actual": {
+                "value": 3500.0,
+                "is_imputed": "False"
+            },
+            "Target": {
+                "value": 2529.2,
+                "is_imputed": "True"
+            },
+            "Achievement%": {
+                "value": NaN,
+                "is_imputed": "False"
+            },
+            "Deficit%": {
+                "value": NaN,
+                "is_imputed": "False"
+            }
+        },
+        {
+            "Year": {
+                "value": 2020.0,
+                "is_imputed": "False"
+            },
+            "Co2 emission Actual": {
+                "value": 3380.0,
+                "is_imputed": "False"
+            },
+            "Target": {
+                "value": 3360.0,
+                "is_imputed": "False"
+            },
+            "Achievement%": {
+                "value": "3%",
+                "is_imputed": "False"
+            },
+            "Deficit%": {
+                "value": "-1%",
+                "is_imputed": "False"
+            }
+        },
+        {
+            "Year": {
+                "value": 2021.0,
+                "is_imputed": "False"
+            },
+            "Co2 emission Actual": {
+                "value": 3275.0,
+                "is_imputed": "False"
+            },
+            "Target": {
+                "value": 3226.0,
+                "is_imputed": "False"
+            },
+            "Achievement%": {
+                "value": "3%",
+                "is_imputed": "False"
+            },
+            "Deficit%": {
+                "value": "-2%",
+                "is_imputed": "False"
+            }
+        },
+        {
+            "Year": {
+                "value": 2022.0,
+                "is_imputed": "False"
+            },
+            "Co2 emission Actual": {
+                "value": 3110.0,
+                "is_imputed": "False"
+            },
+            "Target": {
+                "value": 3097.0,
+                "is_imputed": "False"
+            },
+            "Achievement%": {
+                "value": "5%",
+                "is_imputed": "False"
+            },
+            "Deficit%": {
+                "value": "0%",
+                "is_imputed": "False"
+            }
+        },
+        {
+            "Year": {
+                "value": 2023.0,
+                "is_imputed": "False"
+            },
+            "Co2 emission Actual": {
+                "value": 3200.0,
+                "is_imputed": "False"
+            },
+            "Target": {
+                "value": 2973.0,
+                "is_imputed": "False"
+            },
+            "Achievement%": {
+                "value": "-3%",
+                "is_imputed": "False"
+            },
+            "Deficit%": {
+                "value": "-8%",
+                "is_imputed": "False"
+            }
+        },
+        {
+            "Year": {
+                "value": 2024.0,
+                "is_imputed": "False"
+            },
+            "Co2 emission Actual": {
+                "value": 3100.0,
+                "is_imputed": "False"
+            },
+            "Target": {
+                "value": 2854.0,
+                "is_imputed": "False"
+            },
+            "Achievement%": {
+                "value": "3%",
+                "is_imputed": "False"
+            },
+            "Deficit%": {
+                "value": "-9%",
+                "is_imputed": "False"
+            }
+        },
+        {
+            "Year": {
+                "value": 2025.0,
+                "is_imputed": "False"
+            },
+            "Co2 emission Actual": {
+                "value": 3237.0,
+                "is_imputed": "True"
+            },
+            "Target": {
+                "value": 2740.0,
+                "is_imputed": "False"
+            },
+            "Achievement%": {
+                "value": NaN,
+                "is_imputed": "False"
+            },
+            "Deficit%": {
+                "value": NaN,
+                "is_imputed": "False"
+            }
+        },
+        {
+            "Year": {
+                "value": 2026.0,
+                "is_imputed": "False"
+            },
+            "Co2 emission Actual": {
+                "value": 3237.0,
+                "is_imputed": "True"
+            },
+            "Target": {
+                "value": 2630.0,
+                "is_imputed": "False"
+            },
+            "Achievement%": {
+                "value": NaN,
+                "is_imputed": "False"
+            },
+            "Deficit%": {
+                "value": NaN,
+                "is_imputed": "False"
+            }
+        },
+        {
+            "Year": {
+                "value": 2027.0,
+                "is_imputed": "False"
+            },
+            "Co2 emission Actual": {
+                "value": 3237.0,
+                "is_imputed": "True"
+            },
+            "Target": {
+                "value": 2525.0,
+                "is_imputed": "False"
+            },
+            "Achievement%": {
+                "value": NaN,
+                "is_imputed": "False"
+            },
+            "Deficit%": {
+                "value": NaN,
+                "is_imputed": "False"
+            }
+        },
+        {
+            "Year": {
+                "value": 2028.0,
+                "is_imputed": "False"
+            },
+            "Co2 emission Actual": {
+                "value": 3237.0,
+                "is_imputed": "True"
+            },
+            "Target": {
+                "value": 2424.0,
+                "is_imputed": "False"
+            },
+            "Achievement%": {
+                "value": NaN,
+                "is_imputed": "False"
+            },
+            "Deficit%": {
+                "value": NaN,
+                "is_imputed": "False"
+            }
+        },
+        {
+            "Year": {
+                "value": 2029.0,
+                "is_imputed": "False"
+            },
+            "Co2 emission Actual": {
+                "value": 3237.0,
+                "is_imputed": "True"
+            },
+            "Target": {
+                "value": 2327.0,
+                "is_imputed": "False"
+            },
+            "Achievement%": {
+                "value": NaN,
+                "is_imputed": "False"
+            },
+            "Deficit%": {
+                "value": NaN,
+                "is_imputed": "False"
+            }
+        },
+        {
+            "Year": {
+                "value": 2030.0,
+                "is_imputed": "False"
+            },
+            "Co2 emission Actual": {
+                "value": 3237.0,
+                "is_imputed": "True"
+            },
+            "Target": {
+                "value": 2100.0,
+                "is_imputed": "False"
+            },
+            "Achievement%": {
+                "value": NaN,
+                "is_imputed": "False"
+            },
+            "Deficit%": {
+                "value": NaN,
+                "is_imputed": "False"
+            }
+        }
+    ]
+}
