@@ -1,0 +1,15 @@
+django
+python-dotenv
+openai
+pandas
+numpy
+joblib
+scikit-learn
+tensorflow
+matplotlib
+pillow
+wordcloud
+seaborn
+plotly
+pmdarima
+statsmodels
