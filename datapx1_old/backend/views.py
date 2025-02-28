@@ -58,7 +58,7 @@ def gpt_response(request):
     try:
         prompt = request.POST.get('prompt')
         response = client.chat.completions.create(
-            model="gpt-4-turbo",
+            model="gpt-4o-mini",
             messages=[
                 {"role": "system", "content": "You are a helpful assistant."},
                 {"role": "user", "content": prompt}
@@ -913,7 +913,7 @@ def generate_code2(prompt_eng):
     try:
         while trials > 0:
             response = client.chat.completions.create(
-                model="gpt-4-turbo",
+                model="gpt-4o-mini",
                 messages=[
                     {"role": "system", "content": "You are a helpful assistant."},
                     {"role": "user", "content": prompt_eng}
